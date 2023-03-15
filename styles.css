@@ -3,7 +3,7 @@
   table, th, td {
     border-collapse: collapse;
     border: 3px solid rgb(0, 0, 0);
-    font-size: 1em;
+    font-size: 1.2em;
     font-family: 'Courier New', Courier, monospace;
     text-align: center;
     padding-left: 1.5%;
@@ -14,13 +14,14 @@
 
   }
   table {
-    width: 50%;
+    width: 70%;
     margin-top: 2em;
+    margin-right: 10em;
 
   }
   
   th {
-    height: 50%;
+    height: 70%;
   }
 
 .section1{
@@ -41,10 +42,11 @@
   width: 40%;
   height: 40%;
   margin-top: 1.9em;
-  padding-top: 1.1em;
-  padding-bottom: 1.1em;
-  padding-left: 1.1em;
-  padding-right: 1.1em;
+  padding-top: 1.5em;
+  padding-bottom: 1.5em;
+  padding-left: 1.5em;
+  padding-right: 1.5em;
+  margin-right: 30em;
 
 }
 
@@ -62,10 +64,10 @@
   display: inline;
   font-size: 1.7em;
   font-family: 'Courier New', Courier, monospace;
-  padding-left: 0.2em;
-  padding-right: 0.2em;
-  padding-top: 0.2em;
-  padding-bottom: 0.2em;
+  padding-left: 0.5em;
+  padding-right: 0.5em;
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
 margin-left: 1.6em;
 }
 
@@ -74,15 +76,13 @@ margin-left: 1.6em;
 
 .city{
   display: block;
-  margin-left: 1.9em;
-  padding-right: 7em;
+  margin-left: 3em;
+  padding-right: 1em;
   margin-top: 2em;
+  
 }
 
-.image1{
-  margin-left: 12em;
-  border-radius: 50%;
-}
+
 .section3{
 text-align: center;
 margin-top: 5em;
@@ -92,25 +92,29 @@ margin-top: 5em;
   display: flex;
   font-size: 1em;
   font-family: 'Courier New', Courier, monospace;
-  padding-left: 1em;
-  padding-right: 1em;
-  padding-top: 1em;
-  padding-bottom: 1em;
+  padding-left: 1.3em;
+  padding-right: 1.3em;
+  padding-top: 1.3em;
+  padding-bottom: 1.3em;
+  margin-left: 2em;
+  margin-right: 2em;
+  margin-top: 2em;
 }
 .Ara{
   background-color: #f3cfcf;
   display: inline;
   font-size: 1.7em;
   font-family: 'Courier New', Courier, monospace;
-  padding-left: 0.2em;
-  padding-right: 0.2em;
-  padding-top: 0.2em;
-  padding-bottom: 0.2em;
+  padding-left: 0.7em;
+  padding-right: 0.7em;
+  padding-top: 0.7em;
+  padding-bottom: 0.7em;
+  margin-right: 2.9em;
 
   
 }
 .section4{
-padding-left: 35em;
+padding-left: 21em;
 margin-bottom: 5em;
 }
 
@@ -118,31 +122,43 @@ h2{
   text-align: justify;
   display: inline-block;
   background-color: #f3cfcf;
-  padding-left: 0.5em;
-  padding-right: 0.5em;
-  padding-top: 0.5em;
-  padding-bottom: 0.5em;
+  padding-left: 0.7em;
+  padding-right: 0.7em;
+  padding-top: 0.7em;
+  padding-bottom: 0.7em;
   font-size: 1.4em;
   font-family: 'Courier New', Courier, monospace;
 }
 
 h1{
-  text-align: left;
-  font-size: 5em;
+
+  font-size: 4.5em;
   font-family: sans-serif;
   text-shadow: -2px -2px 0 rgb(206, 132, 212), 2px -2px 0 rgb(230, 192, 255), -2px 2px 0 rgb(206, 132, 212), 2px 2px 0 rgb(206, 132, 212);
   color: black;
+  margin-left: 4.5em;
+  padding-left: 0.1em;
+  padding-right: 0.5em;
+  padding-top: 2em;
+  padding-bottom: 0.5em; 
+}
+.image1{
+  margin-left: 1.8em;
+  border-radius: 40%;
   padding-left: 0.5em;
+ 
+  padding-top: 1.5em;
   
 }
+
 
 .subsect1{
   display: flex;
   background-color: #f3cfcf;
-  padding-left: 1em;
-  padding-right: 1em;
-  padding-top: 1em;
-  padding-bottom: 1em;
+  padding-left: 1.5em;
+  padding-right: 1.5em;
+  padding-top:1.5em;
+  padding-bottom: 1.5em;
   font-size: 0.9em;
   font-family: 'Courier New', Courier, monospace;
   
@@ -152,10 +168,10 @@ h1{
 .subsect2{
   display: flex;
   background-color: #f3cfcf;
-  padding-left: 1em;
-  padding-right: 1em;
-  padding-top:1em;
-  padding-bottom: 1em;
+  padding-left: 1.5em;
+  padding-right: 1.5em;
+  padding-top:1.5em;
+  padding-bottom: 1.5em;
   font-size: 0.9em;
   font-family: 'Courier New', Courier, monospace;
   
@@ -164,10 +180,10 @@ h1{
 .subsect3{
   display: flex;
   background-color: #f3cfcf;
-  padding-left: 1em;
-  padding-right: 1em;
-  padding-top: 1em;
-  padding-bottom: 1em;
+  padding-left: 1.5em;
+  padding-right: 1.5em;
+  padding-top:1.5em;
+  padding-bottom: 1.5em;
   font-size: 0.9em;
   font-family: 'Courier New', Courier, monospace;
   
@@ -184,7 +200,12 @@ h4{
   background-color: #f3cfcf;
   text-align: center;
   font-family: 'Courier New', Courier, monospace;
-
+  padding-left: 0.5em;
+  padding-right: 0.5em;
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+   margin-left: 1em;
+  margin-right: 1em;
 }
 
 @media (min-width : 960px) {
@@ -194,5 +215,6 @@ h4{
     }
     .section5{
         display:flex;
+      
     }
 }
